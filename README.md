@@ -7,4 +7,4 @@
 
 ## notion
 
-[FOR TOMO 기획 페이지](https://hym0nly.notion.site/forTomo-bdd440b5252f4fa5a2a3ca026ae34f5b){:target="_blank"}
+[FOR TOMO 기획 페이지](https://hym0nly.notion.site/forTomo-bdd440b5252f4fa5a2a3ca026ae34f5b){: target="_blank"}
