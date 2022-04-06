@@ -9,3 +9,7 @@
 
 [FOR TOMO 기획 페이지](https://hym0nly.notion.site/forTomo-bdd440b5252f4fa5a2a3ca026ae34f5b){: target="_blank"}
 <a href="https://hym0nly.notion.site/forTomo-bdd440b5252f4fa5a2a3ca026ae34f5b" target="_blank">[FOR TOMO 기획 페이지]</a>
+<https://hym0nly.notion.site/forTomo-bdd440b5252f4fa5a2a3ca026ae34f5b>{: target="_blank"}
+
+
+- 제발 아무거나 새창 열기 가능하게 해주세요......ㅈ[발....]
